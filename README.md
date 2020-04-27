@@ -5,4 +5,9 @@ Finding the closest meteor showers
 
 This project requires python 3 and the requests package.
 
-'pyhton3 meteor-hunters.py'
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python meteor-hunter"
+```
